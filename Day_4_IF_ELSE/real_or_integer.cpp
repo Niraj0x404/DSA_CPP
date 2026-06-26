@@ -10,13 +10,10 @@ int main()
     int integer = y;
     if (n == y)
     {
-        cout << "Integer" << endl
-             << y;
+        cout << "Integer" << endl << y;
     }
     else
     {
-        cout << "Real number " << n << endl
-             << integer << endl
-             << decimal;
+        cout << "Real number " << n << endl << integer << endl << decimal;
     }
 }
